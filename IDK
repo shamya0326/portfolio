@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About Me: Shamya Ware</title>
+<center><h1> About Me: Shamya Ware-Interest </h1></center>
+
+
+<iframe src="https://open.spotify.com/embed?uri=spotify:user:myaaadanielle:playlist:4mi43ltJrrykY3PKVkcgRj" width="300" height="390" frameborder="25" allowtransparency="true"></iframe>
+
+<script type="text/javascript"src="http://www.themesltd.com/tumblr/cursors/mouse-cursors/cursors.js?cat=mouse-cursors&theme=sparkle_emoji&path=emoji-cursors"></script>
+
+</head>
+
+<body>
+  <div id = "twitter">
+  <a class="twitter-timeline" href="https://twitter.com/notcoolmya" data-width="300" data-height="300">Tweets by notcoolmya</a>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<style>
+ body {
+  font-family: Arial;
+  background-color: black;
+  color: greenyellow;
+}
+
+ img
+ {
+    height: 500px;
+    margin-top: -350px;
+      }
+
+</style>
+
+  <img src ="../desktop/Interest.jpg">
+</img>
+</body>
+
+
+
+
+</html>
