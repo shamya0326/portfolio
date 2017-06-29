@@ -17,26 +17,36 @@
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
+<center><img id="pic" src = "C:\Users\GWC-ATL-01\Pictures\Interest.jpg" style = "height = 1000px; width = 1000px;"></center>
+<a href="file:///C:/Users/GWC-ATL-01/Desktop/Aboutme.html">Click Here!</a>
+</body>
 <style>
+
  body {
   font-family: Arial;
   background-color: black;
   color: greenyellow;
 }
 
- img
- {
-    height: 500px;
-    margin-top: -350px;
+ #pic {
+     height: 500px;
+     width:500px;
+     margin-top:-400px
+
+
+  }
+   #twitter{
+     float:right;
+
+}
+
+
+
       }
 
 </style>
 
-  <img src ="../desktop/Interest.jpg">
-</img>
-</body>
-
-
 
 
 </html>
+
