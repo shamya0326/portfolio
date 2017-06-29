@@ -1,0 +1,48 @@
+body {
+  background-color:#DAF7A6;
+
+}
+
+
+.wrapper {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-family: 'Satisfy', cursive;
+
+}
+
+ .index-divs {
+  width: 50%;
+  height: 200px;
+  display: inline-block;
+
+}
+
+
+#div-about{
+  background: url('../assets/backgroundaboutme.gif') no-repeat top center;
+  height:500px;
+
+}
+#div-Interest{
+  background: url('../assets/backgroundinterest.gif') no-repeat center center;
+  height:300px;
+  width: 500px;
+}
+
+#div-others{
+  background: url('../assets/backgroundothers.gif') no-repeat center;
+  height:400px;
+  width:500px;
+}
+a {
+  text-decoration: none;
+  font-size: 50px;
+  color: white;
+}
+h1 {
+  font-size: 80px;
+  color:  darkgrey;
+  text-shadow: 5px 5px 3px black;
+}
