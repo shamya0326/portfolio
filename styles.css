@@ -21,18 +21,18 @@ body {
 
 
 #div-about{
-  background: url('../assets/backgroundaboutme.gif') no-repeat top center;
+  background: url('backgroundaboutme.gif') no-repeat top center;
   height:500px;
 
 }
 #div-Interest{
-  background: url('../assets/backgroundinterest.gif') no-repeat center center;
+  background: url('backgroundinterest.gif') no-repeat center center;
   height:300px;
   width: 500px;
 }
 
 #div-others{
-  background: url('../assets/backgroundothers.gif') no-repeat center;
+  background: url('backgroundothers.gif') no-repeat center;
   height:400px;
   width:500px;
 }
